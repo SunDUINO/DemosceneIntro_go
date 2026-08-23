@@ -1,8 +1,3 @@
-🇬🇧 [English version](README.EN.md)
-
----
-
-
 # Intro_raylib_1
 
 ![Go Version](https://img.shields.io/badge/Go-1.25.0+-00ADD8?style=flat&logo=go)
@@ -13,8 +8,14 @@
 
 ```text
 ├── bin/
+├── Docs/
+│   ├── README.EN.md
+│   └── README.PL.md
 ├── src/
+│   ├── bench_test.go
+│   ├── coverage
 │   ├── cpu.prof
+│   ├── drawFigures_test.go
 │   ├── drawFigures.go
 │   ├── main_test.go
 │   ├── main.go
